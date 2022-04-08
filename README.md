@@ -10,3 +10,4 @@ The Application is a simple Users List. You can Create, Update and Delete Users 
    <li><a href="https://nodejs.org/en/">Node.js/npm</a></li>
 </ul>
 
+## Run the Project
