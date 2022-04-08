@@ -5,8 +5,8 @@ The Application is a simple Users List. You can Create, Update and Delete Users 
 ## requirements
 
 <ul>
-  <li>Firebase Firestore: https://firebase.google.com/docs/firestore/</li>
-  <li>Expo: https://expo.dev/client</li>
+  <li><a href="https://firebase.google.com/docs/firestore/">Firebase Firestore</a></li>
+  <li><a href="https://expo.dev/client">Expo</a></li>
   
 </ul>
 
