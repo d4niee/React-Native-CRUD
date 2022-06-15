@@ -12,4 +12,3 @@ Before you can run this Project you have to install the following things:
 Be sure to install expo with the command 
 ### `npm install --global expo-cli`
 
-## Run the Project
